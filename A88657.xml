@@ -1,0 +1,738 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of a commentarie by Dr. Martyn Luther, u[pon] the Galathians. Wherein the difference betweene the law, the gospell, and the strength of faith is declared. Whereunto is added divine and morall Latine sentences, taken out of the fathers, and other authors, which are cited i[n the] margent of the Practise of piety, but not E[ng]lished there; which for their excellency, and benefit of those who understand not Latine, are here translated.</title>
+            <title>In epistolam Sancti Pauli ad Galatas commentarius. English</title>
+            <author>Luther, Martin, 1483-1546.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88657</idno>
+            <idno type="STC">Wing L3508</idno>
+            <idno type="STC">Thomason E147_12</idno>
+            <idno type="STC">ESTC R212720</idno>
+            <idno type="EEBO-CITATION">99871300</idno>
+            <idno type="PROQUEST">99871300</idno>
+            <idno type="VID">156676</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88657)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156676)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E147[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of a commentarie by Dr. Martyn Luther, u[pon] the Galathians. Wherein the difference betweene the law, the gospell, and the strength of faith is declared. Whereunto is added divine and morall Latine sentences, taken out of the fathers, and other authors, which are cited i[n the] margent of the Practise of piety, but not E[ng]lished there; which for their excellency, and benefit of those who understand not Latine, are here translated.</title>
+                  <title>In epistolam Sancti Pauli ad Galatas commentarius. English</title>
+                  <author>Luther, Martin, 1483-1546.</author>
+                  <author>Ferrers, Edmund.</author>
+               </titleStmt>
+               <extent>[22], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Atkinson, and are to be sold at his shop at Staple-Inne Gate in [..,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A English abstract of: Luther, Martin.  In epistolam Sancti Pauli ad Galatas commentarius.</note>
+                  <note>"To the reader" signed: Edmund Ferrers.</note>
+                  <note>Running title reads: The summe of mans salvation.</note>
+                  <note>8 pages at end have caption title "Divine and morall Latine sentences taken out of the fathers and other authours, which are in the margents of the Practise of piety, .." [i.e. Lewis Bayly's "The practice of pietie"].</note>
+                  <note>Imperfect; title page mutilated or poorly inked, affecting text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  O.T. --  Galatians --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156676:1" rendition="simple:additions"/>
+            <p>AN ABSTRACT OF A COMMENTARIE By D<hi rend="sup">r.</hi> MARTYN LVTHER, upon the GALATHIANS.</p>
+            <p>Wherein the difference betweene the LAW, the GOSPELL, and the ſtrength of Faith is declared.</p>
+            <p>Whereunto is added Divine and Morall Latine Sentences, taken out of the Fathers, and other Authors, which are cited in Margent of the <hi>Practiſe of Piety,</hi> but not Eng<g ref="char:EOLunhyphen"/>liſhed there; Which for their excel<g ref="char:EOLunhyphen"/>lency, and benefit of thoſe who under<g ref="char:EOLhyphen"/>ſtand not Latine, are here tranſlated.</p>
+            <q>
+               <bibl>
+                  <hi>2 COR. 12.9.</hi>
+               </bibl>
+               <p>My power is made perfect through Fides ſola, non eſt ſola.</p>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Henry Atkinſon,</hi> and are to be ſold at his Shop at Staple-Inne Gate in Holborne, 1642.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:156676:2"/>
+            <pb facs="tcp:156676:2"/>
+            <head>To my honored Vncle, MICHAEL MALET of <hi>Poyntington</hi> in the County of <hi>Sommerſet,</hi> Eſquire.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our pious life, in fearing God, eſchewing evill, and doing good; hath ever beene a lively Character to regulate my life by, and hath imboldened me to preſent and dedicate to your grave Patronage, and curteous acceptance, this Abſtract taken out of a Commentary of Doctor <hi>MARTYN LVTHER</hi> upon the <hi>Ga<g ref="char:EOLhyphen"/>lathians,</hi> a Coppy whereof I ſent you a yeer ſince in writing, and now have pub<g ref="char:EOLhyphen"/>liſhed the ſame in Print, for the benefit of my friends and acquaintance, and all zealous, religious ſervants of the Lord; It containing in a few leaves, moſt excel<g ref="char:EOLhyphen"/>lent matter of ſaving Faith, which is,
+<pb facs="tcp:156676:3"/>
+               <hi>the Summe of Mans Salvation;</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ely revealed, and ſet forth unto us, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Old, and New Teſtament; which <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſoever duely conſiders, (unleſſe ſtu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ied with ſupine careleſneſſe, and be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itched with the vaine pleaſures &amp; va<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ties of this world) will utterly deſpiſe, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>d contemne all earthly and tranſitory <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ings, and continually (being overcome <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ith a divine rapture) meditate and con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>mplate upon eternall bleſſedneſſe; The <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes whereof, are more then ever eye <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath ſeen, the eare heard, or the heart of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an can conceive; Witneſſe S<hi rend="sup">t</hi>. <hi>Paul, 2. Cor. 12.2.</hi> who was caught up into the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ird Heaven; whither God Almighty I <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt humbly pray and beſeech to bring <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou my deere loving <g ref="char:V">Ʋ</g>ncle, and all good <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſtians, together with</p>
+            <closer>
+               <signed>Your obedient Nephew, and humble Servant.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:156676:3"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His Epitome, (Chriſtian Rea<g ref="char:EOLhyphen"/>der) is totally that famous and reverend Piller of our Church, Doctor MARTYN LVTHERS, being an Abſtract of his Com<g ref="char:EOLhyphen"/>mentarie upon Saint <hi>Pauls</hi> E<g ref="char:EOLhyphen"/>piſtle to the <hi>Galathians;</hi> And as all our new Corne, comes out of our old Fields; and all our new Learning out of old Bookes, for <hi>Nihil dictum, quod non dictum priùs;</hi> I thought I could not preſent to good Chriſtians a better worke; it being the bread that comes downe from Heaven, and the direct and true path that leades to eternall happineſſe, being well and throughly digeſted and ingrafted in the heart, and dayly practiſed in our Lives, and Conver<g ref="char:EOLhyphen"/>ſations. The Commentary it ſelfe, is a rich Ca<g ref="char:EOLhyphen"/>binet of moſt pretious rare Jewels, and theſe
+<pb facs="tcp:156676:4"/>the choiſeſt and rareſt (as I conceive) in that Cabinet, or Treaſurie; which though it be very ſhort, and eaſily read over in an houres time; Yet it being rightly underſtood and ſtedfaſtly belee<g ref="char:EOLhyphen"/>ved, brings everlaſting life and Glory; which is heartily prayed for, and wiſhed to the godly Rea<g ref="char:EOLhyphen"/>der by the Publiſher hereof, who is thy ſervant in the Lord.</p>
+            <closer>
+               <signed>Edmund Ferrers.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156676:4"/>
+            <head>AN ABSTRACT TAKEN out of a Commentary of Doctor <hi>Martyn Luther,</hi> upon the Epiſtle of Saint <hi>Paul</hi> to the <hi>Galathians.</hi>
+            </head>
+            <p n="1">1. THere is a politicall or civil righteouſnes, which Empe<g ref="char:EOLhyphen"/>rours, Princes of the world, Philoſophers, and Lawyers deale withall.</p>
+            <p>Secondly, there is a Ceremoniall righteouſneſſe, which the Traditions of men doe teach, this Parents and Schoole-Maſters may teach, in regard they doe not attribute to it, any power to ſatisfie for ſinne, to pleaſe God, or to deſerve grace; but teach ſuch Ceremonies, as are neceſſarie for the correction of manners and life.</p>
+            <p>Thirdly, There is a Righteouſnes of the Law, or of the tenne Commandements, which Moſes teacheth, which we teach after the doctrine of faith.</p>
+            <p>Fourthly, there is a Righteouſnes aboue all theſe, to wit, the Righteouſnes of faith, or Chriſtian Righteouſnes, which wee muſt diligently diſcerne from the former, for they are contrary to this righteouſnes, conſiſting in works which are active, but this is a paſſive Righteouſnes. Of all things in the world, the Law is moſt excellent, yet is it not able to quiet a troubled conſcience, but increaſeth Terrors, and driveth it into deſperation. <hi>For by the Law ſinne is made above meaſure ſinfull:</hi> I abandon my ſelfe from all active Righteouſnes, both of my owne, and of Gods law, and embrace only that paſſive Righteouſnes of grace, mercy, and for<g ref="char:EOLhyphen"/>giveneſſe of ſins: Therefore the greateſt wiſedome of a good Chri<g ref="char:EOLhyphen"/>ſtian is, not to know the law, to be ignorant of workes, and of the whole active righteouſnes, eſpecially when the conſcience wreſt<g ref="char:EOLhyphen"/>leth with the Iudgements of God; But it is <hi>è contrario,</hi> to thoſe who are not of Gods people, for the law is not given to a righ<g ref="char:EOLhyphen"/>teous
+<pb facs="tcp:156676:5"/>man, but to the law leſſe and diſobedient: And both the word of Grace, and of wrath, muſt be rightly divided, according to the Apoſtle, 2 <hi>Tim.</hi> 2. which is, <hi>To ſet forth the Law and workes to the Old man, and the promiſe of forgiveneſſe of ſinnes, and of Gods mercy to the New man, Rom.</hi> 10.4. The law continued unto Chriſt, who being come, <hi>Moſes</hi> ceaſeth with his law, Circumciſion, the Sacriſices, the Sabbaths, and all the Prophets: <hi>He that is borne of God cannot ſinne,</hi> 1. <hi>Ioh.</hi> 3.18. it the Article of Juſtification be once loſt, then is all true Chriſtian doctrine loſt, the law ought to have dominion only over the fleſh: whoſoever is aſſuredly preſwaded that Chriſt is his Righteouſnes, it is impoſſible but he ſhould doe all things well. Grace and Peace comprehend in them whatſoever belongeth to Chriſtianitle; grace releaſeth ſinne, and peace ma<g ref="char:EOLhyphen"/>keth the conſcience quiet. The two fiendes that torment us are Sinne but ſinne is rather increaſed by workes, for there is no meanes to take away ſinne but grace alone. The peace of the world, granteth not king but the peace of our goods, and bodies. <hi>I am the way, the truth, and the life, No man commeth to the father but by me, Ioh.</hi> 14.6. wherefore in the matter of Iuſtification we muſt look upon no other God, but only this god incarnate, clothed with mans nature, who ſaith, <hi>Math.</hi> 11.28. <hi>Come unto me all ye that labour, and are heavy laden, and I will refreſh you.</hi> In Chriſt are hid all the Treaſures of wiſdome and knowledge, <hi>For in him dwel<g ref="char:EOLhyphen"/>leth the fulneſſe of the Godhead bodily, Col.</hi> 2.3.9. The world is ignorant of this, <hi>For no man knoweth the father but the Soune, and he to whom the Sonne will reveale him, Mat.</hi> 11.17. Chriſt giveth not grace and peace as the Apoſtles give them, but he giveth them as the Authour and Creatour. The giftes which we receive of the father and which we receive of the Sonne are all one, <hi>Be<g ref="char:EOLhyphen"/>hold the lambe of God, who taketh away the ſinne of the world, Ioh.</hi> 1.29. which ſhews that we cannot put them away by our owne workes; Chriſt was not given for the holy, righteous, worthy, and ſuch as were his friendes; but for wicked ſinners, for the unwor<g ref="char:EOLhyphen"/>thy, and for his enemies, who have deſerved Gods wrath, and e<g ref="char:EOLhyphen"/>verlaſting death, <hi>Who gave himſelfe for our ſinnes, Gal.</hi> 1.4. <hi>God ſo loved the World, that he gave his onely be gotten Sonne, that who<g ref="char:EOLhyphen"/>ſoever beleeveth in him, ſhould not periſh but have everlaſting life, John</hi> 3.16. <hi>The Lord hath laid all our iniquitie upon him: For the tranſgreſſion his people was he ſmitten, Eſay</hi> 53.6.8.</p>
+            <pb facs="tcp:156676:5"/>
+            <p> Chriſt is the Sonne of God, and of the Virgin,<note place="margin">Definition.</note> delivered and put to death for our ſinnes; therefore he is no Tyrant or Judge, which will condemne us for our ſinnes, hee is no caſter downe of the afflicted, but a raiſer up of thoſe that are fallen, a mercifull releiver and comforter, of the heavy and broken hearted. The World is the Kingdome of the Devill; Every one that teacheth that works doe juſtifie, is a troubler of the Church, and of mens conſciences: Chriſt and the Law, can by no means agree and raigne together in the conſcience; for the righteouſneſſe of the Law, and the righteouſneſſe of Grace are contrary: And if thou canſt not beleeve, that God will forgive thy ſinnes for Chriſts ſake, whom he ſent into the World to be our high Prieſt; how then wilt thou beleeve, that he will forgive the ſame for the workes of the Law, which thou couldeſt never performe. It ſeemeth to be a light matter, to mingle the Law and the Goſpell, faith and workes together; but it doth more miſcheife, then mans reaſon can conceive: There is nothing in us, able to deſerve grace, and the for giveneſſe of ſinnes; But we obtaine this grace by the free mercy of God, onely for Chriſts ſake: The knowledge of Chriſt, and of Faith, is no worke of man, but ſimply the gift of God. We may more ſafely attribute too much unto God, then unto man; Mans reaſon hath the Law for his object; but faith being in her owne proper office, hath no other object but Jeſus Chriſt: It ſaith not, What have I done? What have I offended? What have I deſerved? But what hath Chriſt done? What hath hee deſerved? Whereunto the truth of the Goſpell anſwereth thee, hee hath redeemed thee from thy ſinne, from the Devill, and from eternall death, which faith acknowledgeth and beleeveth; And whoſoever turneth away his eyes from this object, hath no true faith, but a fantaſie, and a vaine opinion, and turneth his eyes from the promiſe to the Law, which terrifieth and driveth to deſperation. For a true and ſtedfaſt faith, muſt lay hold on nothing elſe but Chriſt alone, who juſtifieth, and needs not to be furniſhed with charity, as Popiſh Schoolemen teach. The pro<g ref="char:EOLhyphen"/>per office of the Law teacheth, what I ought to doe; The Goſpell teacheth what Jeſus Chriſt the Sonne of God hath done for me, to wit, that he ſuffered and dyed, to deliver me from ſinne and death. We muſt not truſt or glory in any earthly thing, but in God alone: <hi>Non patitus ludum, fima, fides, oculus.</hi>
+            </p>
+            <p>Faith maketh a man here like unto God, who is immutable, ſo
+<pb facs="tcp:156676:6"/>is faith, and therefore may ſuffer nothing, give place to no man.</p>
+            <p>Nothing fighteth more ſtrongly againſt Faith, then the Law and reaſon, which we muſt conquer if we will be ſaved; For the conſcience muſt be free from the Law, but the body muſt be obedient to the Law.</p>
+            <p>There is as great difference between the righteouſneſſe of the Goſpell, and of the Law, as God hath made betweene Heaven and Earth, light and darkneſſe, day and night: The Goſpell ju<g ref="char:EOLhyphen"/>ſtifieth in Heaven, and the Law on Earth.</p>
+            <p>To abſtaine from certaine meates for conſcience ſake, is to deny Chriſt, and to overthrow the Goſpell. God never gave to any man grace and everlaſting life for the merit of Congruence or worthineſſe; For grace cannot be deſerved by workes, for whatſoever is not of faith is ſinne. Wherefore hee that would deſerve Grace by workes going before faith, goeth about to pleaſe God with ſins.</p>
+            <p>The firſt part of Chriſtianity is the preaching of Repentance, and the knowledge of our ſelves; And the ſecond part is, not to ſeeke ſalvation by workes.</p>
+            <p>Chriſt is no Law-giver, but a forgiver of ſinnes, and a Sa<g ref="char:EOLhyphen"/>viour; <hi>For wee are juſtified freely by his grace through the redemp<g ref="char:EOLhyphen"/>tion that is in Chriſt Jeſus, whom God hath ſet forth to be a recon<g ref="char:EOLhyphen"/>ciliation unto us through faith in his blood, Rom.</hi> 3.24, 25.</p>
+            <p>Theſe three things, Faith, Chriſt, Acceptation or Imputa<g ref="char:EOLhyphen"/>tion, muſt be joyned together; To him that beleeveth, ſinne is pardoned, and righteouſneſſe imputed; but not for the merit of congruence and worthineſſe: <hi>Hee that honoureth me, I will honour, they that deſpiſe me, ſhall be deſpiſed,</hi> 2 <hi>Sam.</hi> 2.30. By the deeds of the Law no fleſh ſhall be juſtified; Chriſt is the end and fulfilling of the Law unto righteouſneſſe.</p>
+            <p>The Papiſts by their doctrine, make Chriſt <hi>Moſes,</hi> and <hi>Moſes</hi> Chriſt, turning Grace into the Law, and the Law into Grace; But it is the proper office of Chriſt to deliver from ſinne and death; for he is our reconciliation, righteouſneſſe, peace, life, and ſalvation: And therefore we are juſtified and reputed righ<g ref="char:EOLhyphen"/>teous before God by faith onely in Chriſt; for we muſt be dead to the Law, if we will live to God.</p>
+            <p>But when I have apprehended Chriſt by faith, and through him am dead to the Law, juſtified from ſinne, delivered from
+<pb facs="tcp:156676:6"/>death, the Devill and Hell; then I doe good workes, I love God, I give thankes to him, I exerciſe charity towards my neighbour; But this charity or workes following, doe neither forme nor adorne my faith; but my faith formeth and adorneth charity; <hi>For this is the victorie that overcommeth the World, even our Faith.</hi> 1 <hi>John</hi> 5.4.</p>
+            <p>Whileſt Chriſt is the Law, he is alſo liberty, whileſt hee is ſinne, he is righteouſneſſe, and whileſt he is death, he is life; For in that hee ſuffered the Law to accuſe him, ſinne to con<g ref="char:EOLhyphen"/>demne him, and death to devoure him, hee aboliſhed the Law, he condemned ſinne, he deſtroyed death, he juſtified and ſaved mee.</p>
+            <p>The Law is crucified, and dead unto thoſe onely which be<g ref="char:EOLhyphen"/>leeve in Chriſt; Therefore in the matter of Juſtification, thou muſt not ſeparate the perſon of Chriſt from thy perſon: <hi>By faith we are ſo joyned together, that wee are become one fleſh and one bone, Epheſ.</hi> 5.30.</p>
+            <p>Good workes ought to be done, not as the cauſe, but as the fruits of righteouſneſſe; The Tree maketh the Apple, but not the Apple the Tree; I live by faith in the Sonne of God, who loved me, and gave himſelfe for me, confutes the doctrine to bee able to doe meritorious workes before Grace, <hi>Ex puris na<g ref="char:EOLhyphen"/>turalibus, &amp;c.</hi>
+            </p>
+            <p>Workes of ſupererogation the Papiſts call thoſe, which they doe of their owne devotion more then God requireth: <hi>
+                  <g ref="char:V">Ʋ</g>ltra poſſe viri, non vult Dous ulla requiri,</hi> and ſuch like ſentences, pro<g ref="char:EOLhyphen"/>perly pertaine to the government of Common-wealths and Fa<g ref="char:EOLhyphen"/>milies, and are not to be applyed to the Church.</p>
+            <p>Chriſt is infinite mercy and goodneſſe, freely given, and bountifully giving unto us.</p>
+            <p>To reject and refuſe the grace of God, is to ſeeke righteouſ<g ref="char:EOLhyphen"/>neſſe by the Law.</p>
+            <p>The holy Ghoſt was not given by the Law, but by the hearing of the Goſpell, <hi>Cornelius</hi> received not the holy Ghoſt, by the Almes which he gave, but when <hi>Peter</hi> had opened his mouth, and was yet in ſpeaking, the holy Ghoſt fell upon all them, which with <hi>Cornelius</hi> heard the word, <hi>Acts</hi> 10.44.</p>
+            <p>God gave the holy Ghoſt to the Gentlles, who lived without the Law, and to the Jewes by the preaching of the Goſpell, or hearing of Faith in Chriſt preached, and not at the preaching of
+<pb facs="tcp:156676:7"/>the Law, nor by the workes of the Law; So it appeareth, that the Law never bringeth the holy Ghoſt, but onely teacheth what wee ought to doe, therefore it juſtifieth not; But the Goſpell bringeth the holy Ghoſt, becauſe it teacheth what we ought to receive.</p>
+            <p>The Gentiles juſtified without the Law, as the Nine vites, <hi>And the Ninevites beleeved God, and proclaimed a Faſt; and put on Sack-cloth, Jonah</hi> 3.5. <hi>Naaman the Syrian, Job and diverſe others. Received yee the holy Ghoſt, by the workes of the Law, or by the hearing of faith preached,</hi> ſaith Saint <hi>Paul? Gal.</hi> 3.2.</p>
+            <p>A man is made a Chriſtian not by working, but by hearing; and when he hath received the Goſpell, let him afterwards exerciſe himſelfe in thoſe good workes which are commanded by the Law, ſo that the Law and workes may follow faith; <hi>Feare not little flock, for it is your Fathers pleaſure to give unto you, loe to give unto you a Kingdome, Luke</hi> 12.22. <hi>Martha, Martha, thou careſt and art troubled about many things, but one thing is need<g ref="char:EOLhyphen"/>full, Mary hathchoſen the good part, which ſhall not bee taken from her, Luke</hi> 10.41, 42.</p>
+            <p>
+               <hi>Abraham</hi> was juſtified before God, not becauſe he did worke, but becauſe he did beleeve, <hi>Galat.</hi> 3.6. For <hi>Abraham beleeved God, and it was imputed to him for righteouſneſſe, Gen.</hi> 15.6. Saint <hi>Paul</hi> by theſe wordes, <hi>Abraham beleeved,</hi> Of faith in God, maketh the cheifeſt worſhippe, the cheifeſt duty, the cheifeſt obedience, and the cheifeſt ſacrifice: For faith is an almighty thing, and the power thereof is infinite and ineſtimable: Chri<g ref="char:EOLhyphen"/>ſtian righteouſneſſe conſiſteth in two things, in faith of the heart, and in Gods imputation for Chriſts ſake; Faith killeth reaſon, <hi>Chriſt is our cloudie Piller for the day, and our Piller of fire by the night, leaſt God ſhould ſee our ſinne, Exod,</hi> 13.21. <hi>Hee hath loved us, and given himſelfe in very deed for us, hee was made accurſed for us, &amp;c. Galat.</hi> 3.13. Chriſt is called our object, becauſe the eye of our faith is directed unto him: There is no damnation to them that are in Chriſt Jeſu; with faith alwayes muſt bee joyned a certaine aſſurance of Gods mercy for Chriſts ſake, <hi>The ſeed of the Woman ſhall bruiſe the Serpents head, Gen</hi> 3.15.</p>
+            <p>The promiſe of bleſſing was given unto <hi>Abraham</hi> before Circumciſion, and foure hundred and thirty yeares before the Law; <hi>Abraham which ſaw my day and rejoyced, John</hi> 8.56. <hi>In thee ſhall all the Nations bee bleſſed, Gen.</hi> 12.9. There is great
+<pb facs="tcp:156676:7"/>difference betweene Chriſt bleſſing and redeeming, and Chriſt working, and giving example; So there was betweene belee<g ref="char:EOLhyphen"/>ving and working <hi>Abraham;</hi> they which are of faith, are bleſ<g ref="char:EOLhyphen"/>ſed with faithfull <hi>Abraham,</hi> ſaith Saint <hi>Paul:</hi> And as many as are of the workes of the Law are accurſed, which is not a corporall but a ſpirituall curſe; They therefore that hold on the Law, and ſeeke to be juſtified thereby, deſpiſing the promiſe, are accurſed: The true doer of the Law is hee, who receiving the holy Ghoſt through faith in Chriſt; beginneth to love God, and doe good unto his neighbour. For <hi>without faith it is im<g ref="char:EOLhyphen"/>poſſible to pleaſe God, Heb</hi> 11.6. So that faith incorporateth the worke and giveth it his perfection. All ſentences in Scripture con<g ref="char:EOLhyphen"/>cerning workes and rewardes muſt be Spiritually expounded; If thou beleeve ſinne, death, and the curſe, to be aboliſhed, thev are aboliſhed; for Chriſt hath vanquiſhed and aboliſhed all theſe things; and whereſoever is a true faith, in him, there ſinne is a<g ref="char:EOLhyphen"/>boliſhed, dead, and buried. Learne in all tentations, to tranſlate ſinne, death, the curſe, and all evils which oppreſſe us, from our ſelves unto Chriſt, and againe from him unto our ſelves, righteouſneſſe, mercy, life, and bleſſing; <hi>God the Father caſt the iniquities of us all</hi> (as <hi>Eſay</hi> the Prophet ſaith) <hi>upon him,</hi> which he tooke willingly upon him, that hee might fulfill the will of his Father, by which wee are ſanctified for ever: Let Chriſt be alwayes before thine eyes, as a certaine ſummary of all Arguments for defence of faith, againſt the righteouſneſſe of the fleſh, againſt the Law, and againſt all workes and merits whatſoever. <hi>The Law was added for tranſgreſſions,</hi> ſaith Saint <hi>Paul;</hi> wherefore the firſt uſe of the Law was to bridle the wick<g ref="char:EOLhyphen"/>ed, leaſt the courſe of the Goſpell, ſhould be hindered by the tu<g ref="char:EOLhyphen"/>mults, and ſeditions of the wicked, outragious and proud men, which is civill. The other uſe of the Law is divine and ſpiritu<g ref="char:EOLhyphen"/>all, which is, as Saint <hi>Paul</hi> ſaith, <hi>To increaſe tranſgreſſions,</hi> that is, to reveale unto a man his ſinne, thereby to beate downe the opinion of righteouſneſſe which abideth in man; and is a Mini<g ref="char:EOLhyphen"/>ſter that prepareth the way unto grace: The Law with his office, helpeth by occaſion to Juſtification, in that it driveth a man to the promiſe of grace, and maketh the ſame ſweet and comfor<g ref="char:EOLhyphen"/>table unto him, and is a true and profitable Miniſter, which driveth a man to Chriſt; For God is preſent unto the afflicted and broken hearted; and this is the beſt, and moſt perfect uſe of the
+<pb facs="tcp:156676:8"/>
+               <hi>of the law, Rom.</hi> 10.4. So farre forth as I doe apprehend Chriſt by faith, ſo much is the law aboliſhed unto me; But my fleſh, the world, and the Divell, doe hinder faith in me, that it cannot be perfect, <hi>He gave power to as many as beleeued in him, to be the chil<g ref="char:EOLhyphen"/>dren of God, Ioh.</hi> 1.12.</p>
+            <p>So many as are juſtified, are not juſtified by the obſervation of mans lawes, or Gods lawes, but by Chriſt alone, who hath aboli<g ref="char:EOLhyphen"/>ſhed all lawes; Jeſus Chriſt is one yeſterday, and to day, and ſhall be the ſame for ever; Chriſt is the end of the law unto righteouſ<g ref="char:EOLhyphen"/>nes, to every one that beleeveth; Chriſt was made a curſe for us, that he might deliver us from the curſe of the law. <hi>I came not to judge the world, but that the world ſhould be ſaved by me, Ioh.</hi> 12.47.</p>
+            <p>Evill inſtruction, will increaſe and confirme the pernicious error of blind reaſon, which naturally iudgeth Chriſt to be a law<g ref="char:EOLhyphen"/>giver, and printeth that error mightily in our mindes, that with<g ref="char:EOLhyphen"/>out great travaile and difficulty, it can never be aboliſhed.</p>
+            <p>O law! thou haſt no power over me, and therefore thou doeſt accurſe and condemne me in vaine; for I beleeve in Jeſus Chriſt the Sonne of God, whom the father ſent in to the world to redeeme us miſerable ſinners, oppreſſed with the tiranny of the law, he gave his life and ſhed his blood for me; therefore feeling thy terrors and threatnings O Law, I plunge my conſcience in the wounds, blood, death, reſurrection and victory of my Saviour Chriſt, beſides him I will ſee nothing, I wil heare nothing,</p>
+            <p>This faith is our victory, whereby we overcome the terrour of the Law, ſinne, death, and all evils, and yet not without great Conflicts: <hi>Come unto me</hi> (ſaith Chriſt) <hi>all ye that labour under the Yoke of the Law, Mat.</hi> 11.28. for I have vanquiſhed the Law by double right and authority, firſt as the Sonne of God and Lord of the Law; Secondly in your perſon, which is as much as if yee had overcome the Law your ſelves, for my victorie is yours. <hi>If any man have not the Spirit of Chriſt, the ſame is none of his. Rom.</hi> 8.9.</p>
+            <p>If a man be uncertaine, and ſtand in doubt of the grace and favor of God towardes him, then Chriſt profiteth nothing, for he that doubteth of Gods favour towardes him, muſt needs doubt alſo of the promiſes of God and ſoe conſequently of the will of God, and of the benefites of Chriſt, namely that he was borne, ſuffered, died, and roſe againe for us, &amp;c.</p>
+            <p>If we could fully aſſure our ſelues, and conſtantly beleeve, that God is our Father, and we his ſonnes and heires, then ſhould we
+<pb facs="tcp:156676:8"/>overcome the Law your ſelves, for my victorie is yours. <hi>If any man have not the Spirit of Chriſt, the ſame is none of his, Rom.</hi> 8.9.</p>
+            <p>If a man be uncertaine, and ſtand in doubt of the grace and favour of God towardes him, then Chriſt profiteth nothing, for he that doubteth of Gods favour towardes him, muſt needs doubt alſo of the promiſes of God and ſo conſequently of the will of God, and of the benefites of Chriſt, namely that he was borne, ſuffered, died, and roſe againe for us, &amp;c.</p>
+            <p>If we could fully aſſure our ſelves, and conſtantly beleeve, that God is our Father, and we his ſonnes and heires, then ſhould we utterly contemne this world, with all the glory, righteouſnes, wiſedome and power, and with al the riches and pleaſures thereof, neither ſhould wee be ſo carefull for this life.</p>
+            <p>Whoſoever apprehendeth, the ſon and me, and my promiſe in him by faith, to him I am a God, to him I am a father, him doe I accept, juſtifie and ſave. <hi>Chriſt is the finiſhing and accompli<g ref="char:EOLhyphen"/>ſhing of the Law to righteouſnes to every one that beleeueth Ro.</hi> 10.4 They that beleeve in him ſhal be bleſſed with faithfull <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> they are the ſonnes and heires of God, who giveth the word, which when we haue received by faith given from a<g ref="char:EOLhyphen"/>bove, we are new borne, and the ſonnes of God; for there is no other name given unto men under heaven, whereby they muſt be ſaved.</p>
+            <p>The heart being furniſhed with this confidence, or aſſurance, to wit, that for Chriſtes ſake we are righteous, hath the true forme of Chriſt, which is given by the Miniſtrie of the word, as it is ſaid, 1. <hi>Cor.</hi> 4. <hi>J have begotten you through the Goſpell,</hi> that is to ſay in ſpirit, that ye might know Chriſt and beleeue in him.</p>
+            <p>We muſt diſtinguiſh the heavenly and ſpirituall bleſſing, from the earthly; for the earthly bleſſing is to have a good civil government, both in Common-wealthes and Families, to have children, peace, riches, fruits of the earth, and other temporall commodities: But the heavenly bleſſing is to be delivered from the Law, ſinne and death, to be juſtified and quickned to life, to have peace with God, to have a faithfull heart, a joyfull conſci<g ref="char:EOLhyphen"/>ence, and ſpiritual conſolation, to have the knowledge of Jeſus Chriſt, to have the gift of prophecy &amp; the revelation of the ſcrip<g ref="char:EOLhyphen"/>tures
+<pb facs="tcp:156676:9"/>to have the guifts of the holy Ghoſt, and to reioyce in God; Theſe are the heavenly guifts which Chriſt giveth to his Church.</p>
+            <p>A Chriſtian laying hold of the benefits of Chriſt through faith, hath no Law; but all the Law is to him aboliſhed, with all his terrors and torments; For Chriſt hath made us free, not civilly nor carnally, but divinely; That is to ſay we are made free in ſuch ſort, that our conſciences are now free and quiet, not fearing the wrath of God to come.</p>
+            <p>And certainly this chriſtian libertie, ſwalloweth up at once and taketh quite away the whole heape of evils, the Law, ſinne, death, Gods wrath, and breifly the ſerpent himſelfe, with his head and whole power; and in ſtead thereof it placeth righte<g ref="char:EOLhyphen"/>ouſnes, peace, and everlaſting life &amp;c. Therefore bleſſed is hee that underſtandeth and beleeveth.</p>
+            <p>And let us learne to magnifie this our libertine purchaſed by Jeſus Chriſt the ſonne of God, by whom all things were created both in heaven &amp; earth; which libertie he hath purchaſed, with no other price then with his own bloud; To deliver us not from any bodily or temporall ſervitude, but from a ſpirituall and ever<g ref="char:EOLhyphen"/>laſting bondage, under mightie and invincible Tyrants, to wit, the Law, Sinne, Death, and the Devill, and ſo to reconcile us to God his Father.</p>
+            <p>This libertie then, is not given us by the Law, or for our righ<g ref="char:EOLhyphen"/>teouſnes, but freely for Chriſts ſake; Therefore according to the Apoſtle, <hi>Galath.</hi> 5.1. <hi>Stand faſt in that libertie wherein Chriſt hath made you free;</hi> And in the 8. of <hi>John</hi> 36. <hi>If the Sonne ſhall make you free, ye ſhall be free indeed;</hi> And Chriſt himſelfe, <hi>Math.</hi> 9.2. ſaith, <hi>Be of good comfort my ſonne, thy ſinnes are for<g ref="char:EOLhyphen"/>given thee.</hi>
+            </p>
+            <p>Wherefore it is impoſſible for the Iuſticiaries, which ſeeke to winne heaven, life, and ſalvation, by workes and merits, to know what the liberty and deliverance from ſinne is.</p>
+            <p>And <hi>Gal.</hi> 5.2. Saint <hi>Paul</hi> ſaith, <hi>Be not intangled againe with the yoke of Bondage;</hi> where the Apoſtle ſeemeth to compare thoſe who ſeeke righteouſnes by the Law to Oxen; For like as Oxen draw in the yoke with great toile, and receive nothing thereby but forrage or paſture, and when they bee able to draw the yoke no more, are appointed to the ſlaughter: Even
+<pb facs="tcp:156676:9"/>ſo they that ſeek Righteouſnes by the Law, are Captives and oppreſſed with the yoke of bondage, that is to ſay, with the Law, and when they have tired themſelves a long time in the works of the Law, with great and greivous toyle, in the end this is their reward, that they are miſerable and perpetuall ſervants of ſinne, death, Gods wrath, and the Devill.</p>
+            <p>For the confidence and righteouſnes of workes are nothing, but maketh Chriſt unprofitable; The Devill being the father of lying, and the Enemy of Chriſtian libertie, wherein Chriſt hath made us free; But J know Chriſt to be profitable unto me, therefore I will not make him unprofitable; which I ſhould doe, if either I ſhould preſume to purchaſe my ſelfe favor and ever<g ref="char:EOLhyphen"/>laſting life by my good workes, or ſhould deſpaire becauſe of my ſinnes.</p>
+            <p>For it is impoſſible that Chriſt and the Law, ſhould dwell toge<g ref="char:EOLhyphen"/>ther in one heart, for either the Law, or Chriſt, muſt give place; And to have this perſwaſion, that it is Chriſt alone that iuſtifieth me, both againſt my evill deeds, and without my good workes, is to lay hold of the true Chriſt; But if I think that he exacteth the Law and workes of me to Salvation, then he becommeth unprofitable to me, and I am utterly ſeperated from him.</p>
+            <p>And though it be true, that onely faith juſtifieth, yet after it hath juſtified, it is not idle, but occupied &amp; exerciſed in working through love; So that the whole life of a Chriſtian Man, con<g ref="char:EOLhyphen"/>ſiſteth inwardly in faith towardes God, and outwardly in cha<g ref="char:EOLhyphen"/>rity and good workes towardes our Neighbour; Hee being a perfect Chriſtian inwardly through faith before GOD, who hath no need of our workes, and outwardly before men, whom our faith profiteth nothing, but our Charitie, or our workes.</p>
+            <p>Chriſt is ſet out in the Scriptures as an Example, and as a Gift, and is to be ſet forth unto thoſe who are alreadie caſt downe, and bruiſed through the heavy burden and weight of their ſins, as a Saviour and a gift, and not as an example or a Law-giver; But to thoſe who are ſecure and obſtinate, he muſt be ſet forth as an example.</p>
+            <p>Faith is as a bright Sunne beame comming downe from heaven, which lighteneth, directeth and guideth us; But both faith and charitie, have their truſt and beleife, but after divers
+<pb facs="tcp:156676:10"/>ſorts, by reaſon of the diverſitie of their objects; Faith truſteth in God and therefore cannot be deceived; Charity beleeveth in man, and therefore it is often deceived.</p>
+            <p>And let the godly remember, that as in conſcience before God they be free from the curſe of the Law, from ſinne, and from death, for Chriſts ſake; So as touching the body, they are ſer<g ref="char:EOLhyphen"/>vants, and muſt ſerve one another, according to Saint <hi>Paul, Galath.</hi> 5.13. <hi>ſerve ye one another through love:</hi> which wordes, do not ſet the Chriſtians at liberty, but ſhut them under bondage as touching the fleſh, which doctrine carnall men cannot con<g ref="char:EOLhyphen"/>ceive, but good Chriſtians gladly receive and obey it.</p>
+            <p>For the ungodly doe moſt careleſly ſhake of the yoke and bondage of the fleſh, and turne the libertie of the ſpirit, into wantonnes and fleſhly libertie, not obſerving the commande<g ref="char:EOLhyphen"/>ment of charitie, which is not to render evill for evill, but to overcome evill with good, according to the Apoſtle, <hi>Love thy neighbour as thy ſelfe.</hi>
+            </p>
+            <p>Faith and hope muſt continue, that by the one we may be juſtified, and by the other be rayſed up in adverſities, and endure unto the end; For in reſpect of the fleſh we are ſinners, but in reſpect of the ſpirit we are righteous, and ſo we are partly ſinners and partly righteous, but our righteouſnes, if we walke according to the ſpirit is much more plentifull then our ſinne, becauſe the holines and righteouſnes of Chriſt our Mediator doth farre exceed the ſinnes of the whole world, and eaſily ſwalloweth up all ſins, <hi>But the fleſh luſteth againſt the ſpirit, and the ſpirit againſt the fleſh, and theſe are contrary one to the other; So that yee cannot doe the things that yee would doe,</hi> ſaith Saint <hi>Paul, Gal.</hi> 5.17. Deſpaire not therefore in temptations, but re<g ref="char:EOLhyphen"/>ſiſt the fleſh ſtrongly, and fulfil not the luſt thereof; Thus doing thou art not under the Law; For God is mercifull to thoſe that beleeve for Chriſts ſake, and imputeth not unto us this ſinne, which cannot be put away by ſatisfaction, workes or righteouſ<g ref="char:EOLhyphen"/>nes, but onely by the death of Chriſt.</p>
+            <p>All ſinne is damnable as touching the fact it ſelfe; But in that it is not damnable to him that beleeveth, it commeth of Chriſt, who by his death hath taken away ſinne; But to him that beleeveth not in Chriſt, not only all his ſinnes are damna<g ref="char:EOLhyphen"/>ble,
+<pb facs="tcp:156676:10"/>but even his good workes are alſo ſinne, according to that ſaying, <hi>whatſoever is not of faith, is ſinne.</hi>
+            </p>
+            <p>The faithfull aſſureth himſelfe by faith, that his ſinne is for<g ref="char:EOLhyphen"/>given, and not imputed unto him, for as much as Chriſt hath given himſelfe for it. according to the Apoſtle, <hi>Galat.</hi> 5.18. <hi>If yee bee led by the Spirit, yee are not under the Law;</hi> But all worſhippings, and ſervices of God, and all Religions with<g ref="char:EOLhyphen"/>out Chriſt, are Idolatrie and Idoll ſervice; For in Chriſt alone the Father is well pleaſed; He is the perfection of the Law un<g ref="char:EOLhyphen"/>to righteouſneſſe, to all that doe beleeve.</p>
+            <p>Wherefore let all the godly glory and rejoyce in the Croſſe of Chriſt Jeſus, and not in the mouth of other men; And if there be any that praiſe them, let them receive this glory, but as a ſhadow of true glory, and let them thinke the ſub<g ref="char:EOLhyphen"/>ſtance of glory, to bee indeed the teſtimony of their owne Conſcience: And if wee ſeeke firſt the glory of God, then ſurely our glory will follow, according to that ſaying, <hi>Hee that bonoureth me, I will glorifie.</hi>
+            </p>
+            <p>And let all Miniſters and Paſtors endeavour purely and faithfully to teach the Word, and let them have an eye to no<g ref="char:EOLhyphen"/>thing elſe, but the glory of God, and ſalvation of ſoules, then ſhall their worke be faithfull and ſound.</p>
+            <p>We are taught out of the Word of God, that there is no<g ref="char:EOLhyphen"/>thing under the Sunne, which availeth unto righteouſneſſe before God, but Chriſt onely, or as Saint <hi>Paul</hi> ſaith, <hi>Gal.</hi> 6.15. <hi>A new Creature.</hi>
+            </p>
+            <p>Politique Lawes, Mens Traditions, Ceremonies of the Church, yea and the Law of <hi>Moſes,</hi> are ſuch things, as are without Chriſt, therefore they availe not unto righteouſneſſe before God; We may uſe them as things both good and ne<g ref="char:EOLhyphen"/>ceſſary, but in their place and time; But if we talke of the mat<g ref="char:EOLhyphen"/>ter of Juſtification they availe nothing, but hurt very much.</p>
+            <p>Wherefore in Chriſt Jeſu, or in the matter of Juſtification, we muſt not diſpute of the lawes either of the Jewes, or of the Gentiles; But we muſt ſimply pronounce, that neither Circumciſion or Vncircumciſion availeth any thing, in the cauſe of Faith and Salvation; underſtanding by Circumciſion all the Jewes, by Vncircumciſion all the Gentiles, with all their force, and all their glory.</p>
+            <pb facs="tcp:156676:11"/>
+            <p> For if Lawes be ſo ſet forth, and urged, as though the keep<g ref="char:EOLhyphen"/>ing of them did juſtifie a Man, or the breaking thereof did condemne him, they ought to be taken away and aboliſhed; For then Chriſt looſeth his office and his glory, who onely ju<g ref="char:EOLhyphen"/>ſtifieth us, and giveth us the holy Ghoſt.</p>
+            <p>And a new Creature is the gift of the holy Ghoſt, which cleanſeth our heart by faith, and worketh the feare of God, love, chaſtity, and other Chriſtian vertues, and giveth power to bridle the fleſh, and to reject the righteouſneſſe and wiſe<g ref="char:EOLhyphen"/>dome of the World.</p>
+            <p>This being the onely and true rule wherein wee ought to walke, namely the new Creature, which is neither Circum<g ref="char:EOLhyphen"/>ciſion nor Vncircumciſion; But the new man created unto the Image of God, in righteouſneſſe and true holineſſe, is he, who inwardly is righteous in the ſpirit, and outwardly is holy and cleane in the fleſh.</p>
+            <p>To them who walke after this Rule belongeth peace, that is, the favour of God, forgiveneſſe of ſinnes, quietneſſe of con<g ref="char:EOLhyphen"/>ſcience, and mercy; That is to ſay, helpe in afflictions, and par<g ref="char:EOLhyphen"/>don of the remnants of ſinne which remaine in our fleſh; Yea, although they which walke after this Rule be overtaken with any ſinne, yet for that they are the children of grace and peace, mercy upholdeth them, ſo that their ſinne and fall ſhall not be laid to their charge.</p>
+            <p>God is not a Merchant, that will ſell unto us his grace, for our workes and merits; But hee accounteth us righteous by faith onely in Chriſt, which cauſeth the godly to rejoyce and glory in the onely truſt and confidence of Gods mercy through Jeſus Chriſt, who is the onely high Prieſt and Sa<g ref="char:EOLhyphen"/>viour of the World.</p>
+            <p>Therefore let us pray that he preſerve and eſtabliſh us, that we daily growing more and more in the knowledge of his grace, and faith unfained, may be found unblameable, and without fault in the day of our Redemption; To whom with the Father, and the holy Ghoſt, be glory world without end, Amen. 1 <hi>Tim.</hi> 1. <hi>
+                  <g ref="char:V">Ʋ</g>nto the King everlaſting, immortall, inviſible, unto God onely wiſe, be honour and glory for ever and ever, Amen.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:156676:11"/>
+            <head>Divine and Morall Latine Sen<g ref="char:EOLhyphen"/>tences taken out of the Fathers and other Authours, which are in the Mar<g ref="char:EOLhyphen"/>gent of the <hi>Practiſe of Piety,</hi> but not En<g ref="char:EOLhyphen"/>gliſhed there, which for their excellency and benefit of the Chriſtian Rea<g ref="char:EOLhyphen"/>der, are here tranſlated.</head>
+            <p>
+               <hi>FIdem mitte in Caelum, &amp; eum in terris tanquam preſentem te<g ref="char:EOLhyphen"/>nuiſti, Aug.</hi>
+            </p>
+            <p>Send thy faith into Heaven, and thou haſt apprehended Chriſt, as if he were preſent upon Earth.</p>
+            <p>
+               <hi>Quomodo negent carnem capacem eſſe reſurrectionis, quae ſan<g ref="char:EOLhyphen"/>guine, &amp; corpore Chriſti nutritur. Iren.</hi>
+            </p>
+            <p>How can they deny the fleſh to be capable of reſurrection, which is nouriſhed with the body and blood of Chriſt.</p>
+            <p>
+               <hi>Moriuum eſſe Chriſtum etiam Pagani credunt, reſurrexiſſe vero, propria fides Chriſtianorum. Aug.</hi>
+            </p>
+            <p>The Pagans doe beleeve Chriſt to be dead, but that he roſe againe, is the true faith of Chriſtians.</p>
+            <p>
+               <hi>Rerum abſentium, praeſens eſt fides, rerum impoſſibilium, poſſibilis eſt fides.</hi>
+            </p>
+            <p>Of things abſent, faith is preſent; Of things impoſſible, faith is poſſible.</p>
+            <p>
+               <hi>Panem vides, verbum audis, cui potius credis, ſenſui vel Chriſto?</hi>
+            </p>
+            <p>Thou ſeeſt the bread, thou heareſt the word, whether doeſt thou beleeve, thy ſenſe, or Chriſt?</p>
+            <p>
+               <hi>Et Deus erat, &amp; homo erat, &amp; Mater erat, &amp; virgo erat.</hi>
+            </p>
+            <p>He was God, and he was Man; Shee was a Mother, and ſhee was a Virgin.</p>
+            <p>
+               <hi>Mira ſunt quae de Sacramento dicuntur, Fides eſt neceſſaria, ſeientia rationis ſupervacua.</hi>
+            </p>
+            <p>Wonderfull things are ſpoken of the Sacrament; Faith is neceſſary, the knowledge of reaſon moſt vaine.</p>
+            <pb facs="tcp:156676:12"/>
+            <p> 
+               <hi>Haec ſunt quae expetunt ſimplicem creditorem, arguunt impium diſenſſorem, credi oportet ſimpliciter, quod inveſtigari non poteſt uti<g ref="char:EOLhyphen"/>liter, nolite quaerere quomodo fiat, nolite, &amp;c.</hi>
+            </p>
+            <p>Theſe things require a pure faith, and condemne a wicked diſputer; For that ought to be beleeved ſimply, which cannot be found out profitably, ſearch ye not how it is done, doe yee not, &amp;c.</p>
+            <p>
+               <hi>Scrutari hoc temeritas eſt, credere pietas, noſſe vero vita aeterna. Bern:</hi>
+            </p>
+            <p>To ſearch this is raſhneſſe, to beleeve piety, but to know it eternall life.</p>
+            <p>
+               <hi>Fides ſola juſtificat, ut oculus ſolus vides.</hi>
+            </p>
+            <p>Faith onely juſtifies, as the eye onely ſees.</p>
+            <p>
+               <hi>Ama unum illud bonum, in quo omne bonum, &amp; ſufficit. Anſel.</hi>
+            </p>
+            <p>Love that only good, in whom all goodnes is, and it ſufficeth.</p>
+            <p>
+               <hi>Non delinquenti, ſed peccata relinquenti condonat Deus.</hi>
+            </p>
+            <p>God pardons not a ſinner, but him that forſakes his ſinne.</p>
+            <p>
+               <hi>Qui dat paenitenti veniam, non dabit peceanti paenitentiam. Aug.</hi>
+            </p>
+            <p>He that gives pardon to the penitent, will not give repen<g ref="char:EOLhyphen"/>tance to the ſinner.</p>
+            <p>
+               <hi>Paenitenti veniam ſpoſpondit, ſed vivendi in craſtinum non ſpoſpondit.</hi>
+            </p>
+            <p>He hath promiſed pardon to the penitent, But hee hath not promiſed that he ſhall live till to morrow.</p>
+            <p>
+               <hi>Latronis exemplum, non eſt exemplum imitationis, ſed conſolationis.</hi>
+            </p>
+            <p>The example of the good Theife, is not an example of i<g ref="char:EOLhyphen"/>mitation, but of conſolation.</p>
+            <p>
+               <hi>Tum Deum amare libet, cum perſuaſum habemus ipſum eſſe op<g ref="char:EOLhyphen"/>timum maximum, ubique praeſentem, omnia in nobis efficientem, eum in quo vivimus, movemur, ſumus. Bucer. in Pſal.</hi> 115.</p>
+            <p>Then it is lawfull to love God, when we are verily perſwa<g ref="char:EOLhyphen"/>ded, that he is the cheifeſt good, every where preſent, effecting all things in us, and he, in whom we live, move, and have our being.</p>
+            <p>
+               <hi>Congruebat filium aſſumere humanam naturam, ut haec perſona quae eſt ſubſtantialis imago aeterni patris, reſtitueret imaginem Dei in nobis corruptam: Athan.</hi>
+            </p>
+            <p>It was neceſſary, that the Son ſhould aſſume humane nature, that that perſon, who is the ſubſtantiall Image of the eternall Father, ſhould reſtore the Image of God corrupted in us.</p>
+            <pb n="1" facs="tcp:156676:12"/>
+            <p> 
+               <hi>Incumbit nobis neceſſitas recte vivendi, cum omnia quae facimus, facta ſint coram oculis Judicis cuncta videntis; Boetius.</hi>
+            </p>
+            <p>There is a neceſſitieimpoſed upon us of living well, when all things which we doe, are done before the eyes of a Iudge, who ſees all things.</p>
+            <p>
+               <hi>Semper invenies Deum benigniorem, quam te culpabiliorem. Bern:</hi>
+            </p>
+            <p>Thou ſhalt alwaies finde God more benigne, then thy ſelfe faulty.</p>
+            <p>
+               <hi>Vindictae gladium, miſerecordiae oleo acuit: Niceph.</hi>
+            </p>
+            <p>He hath whetted the Sword of his vengeance, with the oyle of his mercy.</p>
+            <p>
+               <hi>Ad paenam tardus Deus eſt, ad praemia velox; Sed penſare ſolet vi graviore moram.</hi>
+            </p>
+            <p>God is ſlow to puniſh, but ſwift to reward; But his for<g ref="char:EOLhyphen"/>bearance commonly cauſeth more greivous puniſhment.</p>
+            <p>
+               <hi>Ira Dei non eſt aliud, quam voluntas puniendi. Aug.</hi>
+            </p>
+            <p>The wrath of God is no other, then his will of puniſhing.</p>
+            <p>
+               <hi>Deus poteſt omnia, quae contradictionem non implicant. Aqui.</hi>
+            </p>
+            <p>God can doe all things, which implie not contradiction.</p>
+            <p>
+               <hi>Omnipotentia excludit omnes defectus, quae ſunt impotentia, ſeu poſſe mentiri, mori, peccare, &amp;c.</hi>
+            </p>
+            <p>Omnipotencie excludes all defects, as impotencie, or power to lye, to dye, to ſinne, &amp;c.</p>
+            <p>
+               <hi>Creaturas fecit perfectas in ſuo quaſq genere, ergo ipſe perfecti<g ref="char:EOLhyphen"/>ſſimus eſt in ſe, et per ſe. Scal:</hi>
+            </p>
+            <p>God made every Creature perfect in his kind, therfore he is moſt perfect in himſelfe, and by himſelfe.</p>
+            <p>
+               <hi>In Deo nihil eſt, quod non ſit ipſe Deus. Zanch:</hi>
+            </p>
+            <p>In God there is nothing, which is not God himſelfe.</p>
+            <p>
+               <hi>Exhibet omnia, accipit nihil, ipſum igitur bonum eſt Deus ipſe ſemper.</hi>
+            </p>
+            <p>God gives all things, receives nothing, therefore he is alwaies our cheifeſt good.</p>
+            <p>
+               <hi>Site habcam ſolum, ſane ruat arduus aether, Tellus rupta, ſuo deſſiliatque loco.</hi>
+            </p>
+            <p>If I have God alone, let the high Element conſume, the Earth breake, and remove from his Center.</p>
+            <p>
+               <hi>Poſtquam anima agreſſa eſt de corpore, ſubito judicium Chriſti deſe latum cognoſcit. Aug:</hi>
+            </p>
+            <pb n="2" facs="tcp:156676:13"/>
+            <p> After the Soule is gon out of the bodie, forthwith it knowes the judgement of Chriſt pronounced upon it.</p>
+            <p>
+               <hi>Anima damnata, continuo invaditur a Daemonibus, qui crudeliſſimè eam rapientes, ad infernum deducunt.</hi>
+            </p>
+            <p>The damned Soule, is forthwith encountred by Devils, who moſt cruelly tearing it, doe carry the ſame to Hell.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>bi volat ſpiri<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us, ibi erit et corpus. Aug:</hi>
+            </p>
+            <p>Where the ſpirit flies, there alſo ſhall the body be.</p>
+            <p>
+               <hi>Spiri ualia poſt reſurrectionem erunt corpora, non quiae corpora eſſe deſiſtant, ſed quta ſpiritu viuificante ſubſiſtunt. Aug:</hi>
+            </p>
+            <p>After the reſurrection, our bodies ſhall be ſpirituall; Not be<g ref="char:EOLhyphen"/>cauſe they leave of to be bodies, but becauſe they ſubſiſt by a vivificating Spirit.</p>
+            <p>
+               <hi>Res verae ſunt in mundo inviſibili, in mundo viſibili vmbrae rerum. Herm.</hi>
+            </p>
+            <p>True thinges are in the inviſible world, in the viſible world, only the ſhadow of things.</p>
+            <p>
+               <hi>Lumen eſt umbra Dei, et Deus eſt lumen luminis. Plato:</hi>
+            </p>
+            <p>Light is the ſhadow of God, and God is the light of light.</p>
+            <p>
+               <hi>Homo malè utens libero ſuo arbitrio, et ſe, &amp; liberum ſuum arbitrium perdidit. Aug:</hi>
+            </p>
+            <p>Man evilly uſing his free will, loſt himſelfe, and his free will.</p>
+            <p>
+               <hi>Per lapſum, arbitrij libertas in naturalibus manca, in ſuperna<g ref="char:EOLhyphen"/>turalibus amiſſa eſt, donee gratia reſtituetur. Phil:</hi>
+            </p>
+            <p>By Mans fall, his free will was maymed in naturall things, and quite loſt in ſupernaturall, untill by grace it be reſtored.</p>
+            <p>
+               <hi>Fleres, ſi ſcires vnum tua tempora menſem? Rides quum non ſit forſitan una dies? Tho: Morus.</hi>
+            </p>
+            <p>Wouldeſt thou weepe if thou kneweſt thy life to be but a month long? And doeſt thou laugh, when perchance it is not a day?</p>
+            <p>
+               <hi>Quotidie morimur, quotidie enim demitur pars vitae, et tunc quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> cum creſcimus, vita decreſcit, <g ref="char:V">Ʋ</g>ives.</hi>
+            </p>
+            <p>We die daylie, for continually a part of our life is taken away, and then alſo when we grow, our life decreaſes.</p>
+            <p>
+               <hi>Quem dies vidit veniens ſuperum, hunc dies vidit fugiens iacentem. Senec.</hi>
+            </p>
+            <p>He that you ſaw in the morning a loft, before night you ſee lyeing in the duſt.</p>
+            <pb n="3" facs="tcp:156676:13"/>
+            <p> 
+               <hi>Qui conſcientiae curam abijciunt; nec homines reverentur, nec Deum.</hi>
+            </p>
+            <p>They who have no conſcience, regard neither Men, nor God.</p>
+            <p>
+               <hi>Socrates in foro egreſſus, quam multis, inquit, ego non egeo; Non eſt ergo pauper quinon caret, ſed qui eget.</hi>
+            </p>
+            <p>Socrates going out into the Market, ſaid, how many things are heere which I want not; Therefore he is not poore that wants not, but he who hath need.</p>
+            <p>
+               <hi>Qui notus nimis omnibus, ignotus moritur ſibi: Senec.</hi>
+            </p>
+            <p>He who is too well knowne to all, dies unknown to himſelfe.</p>
+            <p>
+               <hi>Inſaniae damnandi ſunt, qui tam multa anxie congerunt, quum ſit tam paucis opus. <g ref="char:V">Ʋ</g>ives.</hi>
+            </p>
+            <p>They are to be condemned of madnes, who with ſuch care gather ſoe much, when ſoe little will ſuffice.</p>
+            <p>
+               <hi>Nobile vincendi genus eſt patientia, vincit Qui patitur, ſi vis vincere, diſce pati.</hi>
+            </p>
+            <p>The nobleſt way to overcome, is Patience; He overcomes who ſuffers, if thou wilt overcome, learne to ſuffer.</p>
+            <p>
+               <hi>Opti na injuriae vltio, eſt oblivio.</hi>
+            </p>
+            <p>The beſt revenge of an Injurie, is to forget it.</p>
+            <p>
+               <hi>Ne verbis, quod ſcis, oſtentes, ſed rebus te oſtende ſcire.</hi>
+            </p>
+            <p>Boaſt not in words, but ſhew by thy deedes, what thou knoweſt.</p>
+            <p>
+               <hi>Non refert quanta ſit vitae diuturnitas, ſed qualis ſit adminiſtratio. Vives.</hi>
+            </p>
+            <p>It skils not how long, but how well we live.</p>
+            <p>
+               <hi>Tota vita dies vnus, et mirum ſit, homines non exſatiari iiſdem toties redeuntibus.</hi>
+            </p>
+            <p>All our life is as one day, and it is ſtrange, that men ſhould not be wearied with them ſo often returning:</p>
+            <p>
+               <hi>Non poteſt praeſentem diem recte vivere, is, qui ſe non eum quaſi vltimum victurum eſſe cogitat.</hi>
+            </p>
+            <p>He cannot live well this preſent day, that thinkes not to live ſo, as if it were his laſt.</p>
+            <p>
+               <hi>Neſcit paenitenda loqui, qui proferenda prius ſuo tradidit exami<g ref="char:EOLhyphen"/>ni. Caſſiod.</hi>
+            </p>
+            <p>He ſhall not ſpeake thinges to be repented of, who conſiders well firſt, what he is to ſpeake.</p>
+            <p>
+               <hi>Si mendacem te nôrint, nemo tibi credet, etiamſi affirmas veriſ<g ref="char:EOLhyphen"/>ſima. Ariſt.</hi>
+            </p>
+            <pb n="4" facs="tcp:156676:14"/>
+            <p> If thou art knowne to be a lier, no man will beleeve thee, though thou ſpeakeſt the truth.</p>
+            <p>
+               <hi>Vera amicitia tantummodo eſt inter bonos; Mali nec inter ſe amici ſunt, nec cum bonis.</hi>
+            </p>
+            <p>True freindſhip is only amongſt the good; For the bad, are neither freindes amongſt themſelues, nor with the good.</p>
+            <p>
+               <hi>Civilem amicum ſic habeas, vt putes poſſe inimicum fieri.</hi>
+            </p>
+            <p>So eſteeme of a civill freind, that thou thinkeſt he may become thine Enemy:</p>
+            <p>
+               <hi>Quod taceri vis, prior ipſe taceas.</hi>
+            </p>
+            <p>What thou deſireſt to be kept ſecret, be ſure firſt, to keepe thy ſelfe ſecret.</p>
+            <p>
+               <hi>Reprehenſio, ſemper vel meliores, vel cautiores nos reddit.</hi>
+            </p>
+            <p>Reprehenſion, doth alwaies make us better, or more cautious.</p>
+            <p>
+               <hi>Si reprehendi fers aegre, reprehendenda ne feceris.</hi>
+            </p>
+            <p>If thou takeſt it ill to be reprehended, doe not thinges wor<g ref="char:EOLhyphen"/>thy of reprehenſion:</p>
+            <p>
+               <hi>Qui facile in ſerijs jurat, in jocis jurabit; qui in jocis, et in men<g ref="char:EOLhyphen"/>dacio. Vives.</hi>
+            </p>
+            <p>He who commonly ſweares in ſerious matters, will ſweare in jeſt; and he that will in jeſt, will alſo to a lye.</p>
+            <p>
+               <hi>Affabilitas, et Comitas, res ſunt nullius impendij, amicitias tamen magnas conglutinant exhibitae, diſſolvunt praetermiſſae.</hi>
+            </p>
+            <p>Affabilitie and curteſy, are things of no coſt, yet being vſed, doe cauſe great love and friendſhip, and looſe the ſame being omitted.</p>
+            <p>
+               <hi>Omnis peccandi occaſi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vitanda eſt, nam qui am<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t periculum, peribit in illo.</hi>
+            </p>
+            <p>All occaſion of ſinning is to be eſchewed, for he that loves danger, ſhall periſh therein.</p>
+            <p>
+               <hi>Nil juvat bonum omen, reclamante conſcientia.</hi>
+            </p>
+            <p>Good fortune delights nothing, where the conſcience accuſes.</p>
+            <p>
+               <hi>Qui ſtatuit aliquid, parte inaudita altera, aequum licet ſtatuerit, haud aequus fuerit. Senec:</hi>
+            </p>
+            <p>Who determines a matter, one parte being not heard, though he judges rightly, yet he was not juſt:</p>
+            <p>
+               <hi>Melius vt pereat vnus, quam vt pereat vnitas.</hi>
+            </p>
+            <p>It were better one ſhould periſh, then that vnitie ſhould periſh.</p>
+            <p>
+               <hi>Nihil eſt aliud tempus, quam vita, quam vnuſquiſque tantum ſe a<g ref="char:EOLhyphen"/>mare
+<pb n="5" facs="tcp:156676:14"/>profitetur, quum rei nullius magis ſit prodigus quam temporis.</hi>
+            </p>
+            <p>Time is no other thing then our life, which every one pro<g ref="char:EOLhyphen"/>feſſes to love ſo much; yet there is nothing that we are more prodigall of, then of our time.</p>
+            <p>
+               <hi>Non turpe eſt veniam precari, turpe eſt Deum aut hominem habere inimieum.</hi>
+            </p>
+            <p>It is not ill to crave pardon; But it is ill to have God, or man our enemy.</p>
+            <p>
+               <hi>Cui ſemel ignoveris, cura vt illi ſentiat bona fide id eſſe actum, et ſi qua in re illum juvare potes, experiatur te amicum. Vives.</hi>
+            </p>
+            <p>Whom thou doeſt once pardon, take care that he underſtand it be done really, and if in any thing thou canſt helpe him, let him finde thee to be his friend.</p>
+            <p>
+               <hi>In vita tempus quod ſomno impenditur, non eſt vita; vita enim vigilia eſt.</hi>
+            </p>
+            <p>In our life, the time which is ſpent in ſleepe, is not life; for our life is a watch,</p>
+            <p>
+               <hi>Da Domine quod jubes, et jube quod vis. Aug.</hi>
+            </p>
+            <p>Give Lord what thou commandeſt, and command what thou pleaſeſt.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>t ſomnus mortis, ſic lectus imago Sepulchri.</hi>
+            </p>
+            <p>As ſleepe is the Image of death; ſo our bed, of our grave.</p>
+            <p>
+               <hi>Hoc me docuiſti, vt quemadmodum medicamenta, ſic alimenta ſumpturns accedam. Aug:</hi>
+            </p>
+            <p>This thou haſt taught me, that even as I receive medicaments, even ſo I ſhould receive nouriſhment.</p>
+            <p>
+               <hi>Major ſum, &amp; ad majora genitus, quam ut mancipium ſim mei corporis. Senec.</hi>
+            </p>
+            <p>I am greater, and borne to greater things, then that I ſhould be a ſlave to my body.</p>
+            <p>Saint <hi>Auſtine</hi> had written over his Table.</p>
+            <p>
+               <hi>Quiſquis amat dictis abſentum rodere famam, Hanc menſam vetitam noverit eſſe ſibi.</hi>
+            </p>
+            <p>Whoſoever delights to ſlander others behinde their backes, let them know, they are forbidden to come to this Table.</p>
+            <p>
+               <hi>Legis ſubſtantia, eſt, ſex diebus terrenis negotiis incumbere, ſep<g ref="char:EOLhyphen"/>tima, divino cultui dare operam.</hi>
+            </p>
+            <p>The ſubſtance of the Law is, to labour ſix dayes in our world<g ref="char:EOLhyphen"/>ly affaires, and the ſeventh day, to ſpend in the ſervice of God.</p>
+            <pb n="6" facs="tcp:156676:15"/>
+            <p> 
+               <hi>Melius enim arare, quam ſaltare in Sabbato. Aug.</hi>
+            </p>
+            <p>It is better to plow, then dance on the Lords day.</p>
+            <p>
+               <hi>Climax vitae virorum fere ſeptenariis aut novennariis; Faemina<g ref="char:EOLhyphen"/>rum vero ſenariis definitur. Bodin.</hi>
+            </p>
+            <p>The Climatorie yeere of Mens lives, is commonly accoun<g ref="char:EOLhyphen"/>ted by ſevens or nines; But of Women by ſixes.</p>
+            <p>
+               <hi>Praeſentem narrat quaelibet berba Deum.</hi>
+            </p>
+            <p>Every herbe tels us that God is preſent.</p>
+            <p>
+               <hi>Jejunium in Paradiſo praeſcriptum eſt, reverere igitur jejunii ca<g ref="char:EOLhyphen"/>nitiem. Baſil.</hi>
+            </p>
+            <p>Faſting was commanded in Paradiſe, therefore reverence it for the Antiquitie.</p>
+            <p>
+               <hi>Quam diù jejunavit Adam, in Paradiſo fuit, comedit, &amp; ejectus eſt. Hierom.</hi>
+            </p>
+            <p>So long as <hi>Adam</hi> faſted, he was in Paradiſe, he did eate, and was caſt out.</p>
+            <p>
+               <hi>Praeceptum eſſe jejunium video, quibus autem diebus non oporteat jejunare, &amp; quibus oporteat, praecepto Domini, vel Apoſtolorum, non invenio definitum. Aug.</hi>
+            </p>
+            <p>I know faſting is commanded, but on what dayes we ought not to faſt, and on what dayes we ought; I finde not ſet downe by the commandement of our Lord, or his Apoſtles.</p>
+            <p>
+               <hi>Natura os parvum, &amp; guttur arctum homini dedit.</hi>
+            </p>
+            <p>Nature gave man a little mouth, and a ſtraight throate.</p>
+            <p>
+               <hi>Quid prodeſt vacuare corpus ab eſcis, &amp; animam replere peecatis.</hi>
+            </p>
+            <p>What doth it profit, to keepe the body from meate, and to fill the Soule with ſinne.</p>
+            <p>
+               <hi>Qui cibis abſtinent, &amp; mala agunt, Daemones imitantur, quibus culpa adeſt, &amp; cibus deeſt.</hi>
+            </p>
+            <p>Thoſe who faſt, and doe wickedly, imitate the Devils, who eate not, but doe evill.</p>
+            <p>
+               <hi>Vis orationem tuam volare ad Caelum, facito duas alas, Jejunium &amp; eleemoſynam. Aug.</hi>
+            </p>
+            <p>Wouldeſt thou have thy prayer to flye to heaven, make it two wings, faſting, and prayer.</p>
+            <p>
+               <hi>Jejunium orationem corroborat, oratio Jejunium ſanctificat. Bern.</hi>
+            </p>
+            <p>Faſting ſtrengthens prayer, Prayer ſanctifies faſting.</p>
+            <p>
+               <hi>Tota fiducia Chriſtianorum, eſt reſurrectio mortuorum. Tertul. lib.</hi> 5.</p>
+            <pb n="7" facs="tcp:156676:15"/>
+            <p> All the hope of Chriſtians, is, the reſurrection of the dead.</p>
+            <p>
+               <hi>Lucrum eſt, pietatis nomine facere ſumptum.</hi>
+            </p>
+            <p>It is gaine, to beſtow coſt in godlineſſe.</p>
+            <p>
+               <hi>Matrimonium inter aurum &amp; arcam; Divortium inter Deum, &amp; Animam. Aug.</hi>
+            </p>
+            <p>Marriage betweene gold and the Cheſt; Is a divorce be<g ref="char:EOLhyphen"/>tweene God, and the Soule.</p>
+            <p>
+               <hi>Sinit Deus juſtum incidere in calamitates, ut virtutem quae in illis latebat, aliis apertam, manifeſtam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> faciat. Damaſ.</hi>
+            </p>
+            <p>God ſuffers the juſt to fall into calamities, that hee might make plaine and manifeſt to others, the vertue which lay hid in them.</p>
+            <p>
+               <hi>Deus calamitates inſtigit, non extinguere, ſed caſtigare nos cupiens. Baſil. Ser.</hi> 3.</p>
+            <p>God afflicts us with calamities, deſiring not to deſtroy, but to chaſtiſe us.</p>
+            <p>
+               <hi>Malum pati, malum non eſt; Malum facere, malum eſt. Chryſ.</hi>
+            </p>
+            <p>To ſuffer evill, is not evill; But to doe evill, is evill.</p>
+            <p>
+               <hi>Novit Dominus mutare ſententiam, ſi tu noveris emendare vitam. Aug. in Pſal.</hi> 50.</p>
+            <p>The Lord knowes to change his ſentence, if thou knoweſt to amend thy life.</p>
+            <p>
+               <hi>Judas non tam ſcelus, quam deſperatio fecit penitus interire. Aug.</hi>
+            </p>
+            <p>
+               <hi>Judas</hi> his Treaſon, was not ſo much the cauſe of his damna<g ref="char:EOLhyphen"/>tion, as his deſperation.</p>
+            <p>
+               <hi>Sceleratior omnibus O Juda extitiſti, quem non poenitentia duxit ad Dominum, ſed deſperatio traxit ad laqueum. Leo.</hi>
+            </p>
+            <p>Thou waſt more wicked then all O <hi>Judas,</hi> whom repentance brought not to the Lord, but deſperation drew to the Gallows.</p>
+            <p>
+               <hi>Poſt lachrymas, gemituſque graves, clementia Chriſti, Confeſtim eſt oculos anteponenda tuos.</hi>
+            </p>
+            <p>After teares, and much ſorrow, the clemencie of Chriſt is to be ſet before our eyes.</p>
+            <p>
+               <hi>O faelices nos quorum cauſa jurat Deus! O miſerimos nos! Si non Deo quidem juranti credimus. Tertul.</hi>
+            </p>
+            <p>O happy we, for whoſe cauſe God hath ſworne! O moſt un<g ref="char:EOLhyphen"/>happy we! if we doe not beleeve what God hath ſworne.</p>
+            <p>
+               <hi>S. Romitus; Cum quotannis gravi morbo tentaretur a Deo, doluit, quoduno anno liber eſſet, ac ſi a Deo tune deſertus fuiſſet. Vit. Patr.
+<pb n="8" facs="tcp:156676:16"/>S. Romitus;</hi> Being yearly viſited with a grievous ſickneſſe, la<g ref="char:EOLhyphen"/>mented that he was free one yeare, as if God had forſaken him.</p>
+            <p>
+               <hi>Morbus, non malis adnumerandus, quia multis utiliter acci<g ref="char:EOLhyphen"/>dit. Baſil.</hi>
+            </p>
+            <p>A diſeaſe is not to be numbred with evils, becauſe it happens profitably to many.</p>
+            <p>
+               <hi>Morbus eſt utilis quaedam inſtitutio, quae doc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t caduca aſpernere, &amp; caeleſtia ſperare. Nazian.</hi>
+            </p>
+            <p>A diſeaſe, is a certaine profitable meanes, which teacheth us to deſpiſe earthly things, and hope for heavenly.</p>
+            <p>
+               <hi>Mors praeſentis vitae exitus, &amp; introitus melioris. Bern.</hi>
+            </p>
+            <p>Death is the <hi>Exit</hi> of this preſent life, and the entrance of a better.</p>
+            <p>
+               <hi>Timor mortis, ipſa mortepejor; Mors porta gloriae. Greg.</hi>
+            </p>
+            <p>The feare of death, is worſe then death it ſelfe; Death is the gate of Glory.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>t moriare pius, diſce vivere piè.</hi>
+            </p>
+            <p>If thou deſireſt to dye well, learne to live well.</p>
+            <p>
+               <hi>Summum hominis bonum, bonus ex hac vita exitus.</hi>
+            </p>
+            <p>The cheifeſt happineſſe of man, is to dye a good death.</p>
+            <p>
+               <hi>Mors ſceptra ligonibus aequat.</hi>
+            </p>
+            <p>Death makes Scepters and Ploughs equall.</p>
+            <p>
+               <hi>Paſtores omnes hic exoratos vellem, ut fideles ex hac vita mi<g ref="char:EOLhyphen"/>grantes, &amp; panem vitae petentes, non viatico ſuo fraudari ſinant, ne lugubris, iſta in iis adimpleatur lamentatio; Parvuli panem pe<g ref="char:EOLhyphen"/>tunt, &amp; non ſit qui frangat eis, Lament.</hi> 4.4.</p>
+            <p>I wiſh all Miniſters being deſired, not to ſuffer the faithfull departing out of this World, and deſiring the bread of life, to be defrauded of their <hi>Viaticum;</hi> leaſt as an addition to their mourning, this Woe be fulfilled in them; <hi>The young Children aske bread, and no man breaketh it unto them.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
